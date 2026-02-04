@@ -11,7 +11,7 @@ Welcome to the **Math 280** code repository at UC Merced! This repository is int
 
 Currently, the `Examples/` directory contains:
 
-- **Least-Squares** – Starting with the prostate data example from ESL.
+- **Week_03_Examples** – Starting with the prostate data example from ESL.
 
 Additional examples and exercises will be added throughout the semester.
 
